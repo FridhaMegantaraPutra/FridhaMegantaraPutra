@@ -45,14 +45,6 @@ Django  ███████████████░░░░░ 75%
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50">
 </div>
 
-## 🎯 Cool Projects I've Built
-
-**🔥 Fire Detection System** - Real-time detection with YOLOv8  
-**🌾 Rice Disease Detector** - Helping farmers with AI  
-**🤖 WhatsApp AI Bot** - Customer service automation  
-**💳 Credit Card Predictor** - ML classification model  
-**🧠 Psychology Chatbot** - Mental health support tool  
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-9a20-81309d5c1387.gif" width="200">
 </div>
@@ -82,4 +74,3 @@ Django  ███████████████░░░░░ 75%
 <div align="center">
   <sub>✨ Always learning, always growing ✨</sub>
 </div>
-
