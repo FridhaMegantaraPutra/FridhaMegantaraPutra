@@ -29,6 +29,7 @@ I'm a final year **Informatics Engineering** student at Trunojoyo University, pa
 Python  ████████████████████ 90%
 SQL     ████████████████░░░░ 80%
 Django  ███████████████░░░░░ 75%
+PHP     ████████████████████ 90%
 ```
 
 **AI & ML Tools**
